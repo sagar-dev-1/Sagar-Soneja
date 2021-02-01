@@ -8,16 +8,18 @@
   </a>
 </h1>
 
-<br/>
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Sagar-Soneja/Sagar-Soneja/blob/master/image.gif">
-</a>
-<br/>
+
 
 <h1 align="center">Hi 👋, I'm Sagar Soneja, aka Staffan_s_s</h1>
 <h3 align="center">A Web developer and Competitive Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-soneja&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-soneja" /> </p>
+
+<br/>
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Sagar-Soneja/Sagar-Soneja/blob/master/image.gif">
+</a>
+<br/>
 
 - 🔭 I’m currently working on **Personal Project**
 
