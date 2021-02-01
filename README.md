@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [sagar-soneja.github.io](sagar-soneja.github.io)
 
-- 🥅 2021 Goals: **Contribute more to Open Source projects**
+- 🥅 2021 Goals: **Contribute to Open Source projects**
 
 - 📫 How to reach me **sagarsoneja89@gmail.com**
 
