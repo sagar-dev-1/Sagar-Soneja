@@ -15,7 +15,7 @@
 
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/Sagar-Soneja/Sagar-Soneja/blob/master/image.gif">
+  <img align="right" height="150" width="300" alt="GIF" src="https://github.com/Sagar-Soneja/Sagar-Soneja/blob/master/image.gif">
 </a>
 <br/>
 
